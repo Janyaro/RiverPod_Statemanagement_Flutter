@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:learn_riverpod/Provider_class/search_provider.dart';
-import 'package:learn_riverpod/Provider_class/slider_class.dart';
 
 class SearchExample extends ConsumerWidget {
   const SearchExample({super.key});
